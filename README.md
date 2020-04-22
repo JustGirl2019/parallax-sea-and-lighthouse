@@ -8,5 +8,5 @@
 ## Как запустить проект
 В командной строке ввести `gulp`.
 
-<img src="screenshot.phg">
+<img src="screenshot.png">
 
