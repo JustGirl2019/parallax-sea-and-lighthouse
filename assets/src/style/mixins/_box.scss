@@ -1,0 +1,5 @@
+// Простой блок с фиксированной шириной и высотой
+@mixin box($width: 200px, $height: 200px){
+  width: $width;
+  height: $height;
+}
